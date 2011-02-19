@@ -4,13 +4,16 @@ All rights reserved.
 stretch-pwd
 ===========
 
-This program improve to pretty look for Shell prompt
+This program improve shell prompt
 
+/home/bah/workspace/project/src/main/java $
+↓
+/home/bah/w...src/main/java $
 
 Contents
 ========
-	* Build and install stretch-pwd
-	* Setup for zsh
+    * Build and install stretch-pwd
+    * Setup for zsh
     * Example
 
 
@@ -23,7 +26,7 @@ sudo make install
 
 Setup for zsh
 =============
-Set fook to a chpwd function in your .zshrc
+Set hook to a chpwd function in your .zshrc
 	
 	PS1_WIDTH=30
 	function chpwd(){
