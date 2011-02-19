@@ -6,8 +6,9 @@ stretch-pwd
 
 This program improve shell prompt
 
+- normal path view
 /home/bah/workspace/project/src/main/java $
-↓
+- stretch-pwd path view
 /home/bah/w...src/main/java $
 
 Contents
